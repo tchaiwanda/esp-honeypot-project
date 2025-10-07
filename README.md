@@ -1,3 +1,4 @@
+⚠️ Educational use only. Test on devices/networks you own or have explicit permission to assess. Comply with local laws.
 
 # WiFi Honeypot with ESP8266 (Fake AP + Captive Portal)
 
