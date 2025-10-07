@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Local environment files
+*.env
+*.local
+
+# Logs
+*.log
+
+# IDE and cache folders
+.vscode/
+__pycache__/
